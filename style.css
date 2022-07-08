@@ -2,9 +2,9 @@
 
 body {
   margin: 0px;
+  background-color: hsl(218, 23%, 16%);
 }
 .container {
-  background-color: hsl(218, 23%, 16%);
   display: flex;
   justify-content: center;
   align-items: center;
